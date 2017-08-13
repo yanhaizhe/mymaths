@@ -20,7 +20,9 @@
 
 1、垂直：
 
-
-
 当∠α=90°时，我们说a与b互为垂直（perpendicular）,记作：a⊥b.
+
+垂直是相交的一种特殊情况，两条直线互相垂直，其中一条直线叫做另一条直线的垂线（perpendicular line）,它们的交点叫做垂足（foot of a perpendicular ）.AB⊥CD，垂足为O。
+
+
 
