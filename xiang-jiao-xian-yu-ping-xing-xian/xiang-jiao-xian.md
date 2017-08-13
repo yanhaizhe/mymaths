@@ -16,9 +16,11 @@
 
 二、垂线
 
+![](/assets/import000002.png)
+
 1、垂直：
 
+
+
 当∠α=90°时，我们说a与b互为垂直（perpendicular）,记作：a⊥b.
-
-
 
