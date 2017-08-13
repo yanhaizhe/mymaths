@@ -36,3 +36,7 @@
 
 ![](/assets/import000003.png)
 
+PO⊥l，我们成PO为点P到直线l的垂线段。
+
+
+
