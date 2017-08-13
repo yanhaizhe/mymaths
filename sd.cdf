@@ -23,10 +23,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[      1064,         20]
-NotebookDataLength[     10722,        264]
-NotebookOptionsPosition[     11067,        257]
-NotebookOutlinePosition[     11565,        276]
-CellTagsIndexPosition[     11522,        273]
+NotebookDataLength[     13422,        328]
+NotebookOptionsPosition[     13766,        321]
+NotebookOutlinePosition[     14264,        340]
+CellTagsIndexPosition[     14221,        337]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -243,6 +243,69 @@ Lbo3mnRvIPgxG0AOvI3Bv6Jee0m99pm9iTEIYPIdQMEwGcGHhQ/PNpBHMPkS
       "5251f592-3113-4bc1-8b0b-b12017c1520b"],
      Background->GrayLevel[1.]], {0.9250000000000003, 0.9111111111111113}, {
     Left, Baseline},
+    Alignment->{Left, Top}], 
+   GeometricTransformationBox[
+    GraphicsGroupBox[
+     LineBox[{{0.1416666666666667, 0.18611111111111112`}, {0.602777777777778, 
+      0.18611111111111112`}}]], {{-0.09166666666666669, 
+    0.005555555555555536}}], 
+   PointBox[{0.3694444444444446, 0.39166666666666683`}], 
+   {StrokeForm[RGBColor[1, 0, 0]], EdgeForm[GrayLevel[0]], EdgeForm[None], 
+    LineBox[{{0.3666666666666668, 0.45277777777777795`}, {0.3694444444444446, 
+     0.07777777777777795}}]}, 
+   LineBox[{{0.3861111111111112, 0.42500000000000016`}, {0.24444444444444446`,
+     0.11666666666666681`}}], 
+   LineBox[{{0.40555555555555567`, 0.4194444444444446}, {0.02777777777777779, 
+    0.11666666666666681`}}], 
+   LineBox[{{0.3694444444444446, 0.2250000000000001}, {0.38888888888888895`, 
+    0.2250000000000001}, {0.3861111111111112, 0.19444444444444442`}}], 
+   InsetBox[
+    StyleBox[Cell["P",
+      GeneratedCell->False,
+      CellAutoOverwrite->False,
+      CellBaseline->Baseline,
+      TextAlignment->Left,ExpressionUUID->
+      "8798d1c6-27bf-489e-bfe3-d98de42854b0"],
+     Background->GrayLevel[1.]], {0.3944444444444446, 0.3861111111111113}, {
+    Left, Baseline},
+    Alignment->{Left, Top}], InsetBox[
+    StyleBox[Cell["O",
+      GeneratedCell->False,
+      CellAutoOverwrite->False,
+      CellBaseline->Baseline,
+      TextAlignment->Left,ExpressionUUID->
+      "7f99e91c-a116-437d-bfc8-4abe3b557835"],
+     Background->GrayLevel[1.]], {0.39722222222222237, 0.16666666666666674}, {
+    Left, Baseline},
+    Alignment->{Left, Top}], InsetBox[
+    StyleBox[Cell["l",
+      GeneratedCell->False,
+      CellAutoOverwrite->False,
+      CellBaseline->Baseline,
+      TextAlignment->Left,ExpressionUUID->
+      "cfe39af9-c5a1-4415-b31b-04cd56b92035"],
+     Background->GrayLevel[1.]], {0.5416666666666667, 0.19166666666666665}, {
+    Left, Baseline},
+    Alignment->{Left, Top}], 
+   InsetBox["", {0.288888888888889, 0.1777777777777778}, {Left, Baseline},
+    Alignment->{Left, Top}], InsetBox[
+    StyleBox[Cell["A1",
+      GeneratedCell->False,
+      CellAutoOverwrite->False,
+      CellBaseline->Baseline,
+      TextAlignment->Left,ExpressionUUID->
+      "b04a0112-42f0-45f4-b59e-e5b68c0fe7c1"],
+     Background->GrayLevel[1.]], {0.288888888888889, 0.16666666666666674}, {
+    Left, Baseline},
+    Alignment->{Left, Top}], InsetBox[
+    StyleBox[Cell["A2",
+      GeneratedCell->False,
+      CellAutoOverwrite->False,
+      CellBaseline->Baseline,
+      TextAlignment->Left,ExpressionUUID->
+      "c5357dd2-f596-467c-b396-28233dba6d29"],
+     Background->GrayLevel[1.]], {0.11666666666666667, 0.1611111111111112}, {
+    Left, Baseline},
     Alignment->{Left, Top}]},
   ContentSelectable->True,
   ImagePadding->{{0., 0.}, {0., 0.}},
@@ -252,7 +315,8 @@ Lbo3mnRvIPgxG0AOvI3Bv6Jee0m99pm9iTEIYPIdQMEwGcGHhQ/PNpBHMPkS
  CellChangeTimes->{{3.711539169734168*^9, 3.7115392616137595`*^9}, {
    3.711539430144575*^9, 3.711539524044818*^9}, {3.7115398627833104`*^9, 
    3.7115400502226315`*^9}, 3.7115775002759414`*^9, {3.711577575256978*^9, 
-   3.711577852303271*^9}},ExpressionUUID->"0cf64922-f4e3-4d3b-a6dc-\
+   3.711577852303271*^9}, {3.711579038019517*^9, 
+   3.7115791743650618`*^9}},ExpressionUUID->"0cf64922-f4e3-4d3b-a6dc-\
 c56f661392bd"]
 },
 WindowToolbars->{"RulerBar", "EditBar"},
@@ -277,10 +341,10 @@ CellTagsIndex->{}
 Notebook[{
 Cell[1464, 33, 859, 27, 117, "Input", "ExpressionUUID" -> \
 "b7044fd4-6840-41dc-a089-01bba0ddf702"],
-Cell[2326, 62, 8737, 193, 375, "Input", "ExpressionUUID" -> \
+Cell[2326, 62, 11436, 257, 375, "Input", "ExpressionUUID" -> \
 "0cf64922-f4e3-4d3b-a6dc-c56f661392bd"]
 }
 ]
 *)
 
-(* NotebookSignature 0vTylGE6D1b4oBg@x@Zz#gB3 *)
+(* NotebookSignature PxpkjfxMmp1JKB1gauUciwH4 *)
