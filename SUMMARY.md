@@ -8,3 +8,7 @@
 
 * [相交线](xiang-jiao-xian-yu-ping-xing-xian/xiang-jiao-xian.md)
 
+## english
+
+* 方法
+
