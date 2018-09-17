@@ -10,5 +10,6 @@
 
 ## english
 
-* 方法
+* [方法](english/fang-fa.md)
+  * [1](english/fang-fa/1.md)
 
